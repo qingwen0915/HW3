@@ -1,17 +1,17 @@
-Q: What is human life expectancy in the United States?
-A: Human life expectancy in the United States is 78 years.
+Q: What is the current average life expectancy for individuals in the United States?
+A: The average life expectancy in the United States is approximately 78 years.
 
-Q: Who was president of the United States in 1955?
-A: Dwight D. Eisenhower was president of the United States in 1955.
+Q: Can you name the individual who held the office of the President of the United States during the year 1955?
+A: Dwight D. Eisenhower was the President of the United States in 1955.
 
-Q: Which Party did he belong to?
-A: He belonged to the Republican Party.
+Q: Which political party was President Dwight D. Eisenhower affiliated with during his presidency?
+A: He was affiliated with the Republican Party.
 
-Q: What is the square root of banana?
+Q: Is there a mathematical square root for the fruit known as a banana?
 A: I have no comment.
 
-Q: How does a telescope work?
-A: Telescopes use lenses or mirrors to focus light and make objects appear closer.
+Q: Could you explain the basic principle of how a telescope allows us to see distant objects more clearly?
+A: Telescopes function by utilizing lenses or mirrors to gather light and magnify distant objects, making them appear closer.
 
-Q: Where were the 1992 Olympics held?
-A: The 1992 Olympics were held in Barcelona, Spain.
+Q: In which city were the Summer Olympics hosted in the year 1992?
+A: The Summer Olympics in 1992 were hosted in Barcelona, Spain.
